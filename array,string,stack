@@ -1,0 +1,31 @@
+Array:
+1.Find pair with given sum in the array
+
+2.Check if subarray with 0 sum is exists or not
+
+3.Print all sub-arrays with 0 sum
+
+4.Sort binary array in linear time
+
+5.Find a duplicate element in a limited range array
+
+Stack
+1.Stack Implementation
+
+2.Stack Implementation using Linked List
+
+3.Check if given expression is balanced expression or not
+
+4.Find duplicate parenthesis in an expression
+
+5.Evaluate given postfix expression
+
+6.Decode the given sequence to construct minimum number without repeated digits
+String
+1.Check if given string is a rotated palindrome or not
+
+2.Check if repeated subsequence is present in the string or not
+
+3.Convert given number into corresponding excel column name
+
+4.Isomorphic Strings
